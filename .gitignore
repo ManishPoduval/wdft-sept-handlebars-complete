@@ -1,1 +1,9 @@
 node_modules
+
+
+# we never commit the .env file 
+# but we're doing it just for understanding
+
+#.env
+
+
